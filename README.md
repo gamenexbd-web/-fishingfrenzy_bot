@@ -1,0 +1,1 @@
+# -fishingfrenzy_bot
